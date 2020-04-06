@@ -23,10 +23,6 @@
     background-position: left 11px center;
     padding-left: 35px;
 }
-.buttons{
-    display:flex;
-    align-items: center ;
-}
 .button{
     display: flex;
     align-items: center ;
@@ -44,7 +40,6 @@
     background: #1890FF;
     border: 1px solid #1890FF;
     color:#FFFFFF;
-    margin-right: 10px;
 }
 .button-icon{
     margin-right: 6px;
